@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+.docusaurus/
+__pycache__/
+*.pyc
+.venv/
+qdrant_data/collection/physical_ai_textbook/storage.sqlite
