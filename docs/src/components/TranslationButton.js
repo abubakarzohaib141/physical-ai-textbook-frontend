@@ -24,7 +24,7 @@ const TranslationButton = () => {
         const originalContent = contentElement.innerHTML;
 
         try {
-            const response = await fetch('http://localhost:8000/translate', {
+            const response = await fetch('https://abubakaris-space.hf.space/translate', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

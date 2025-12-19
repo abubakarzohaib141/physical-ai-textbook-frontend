@@ -21,7 +21,7 @@ const PersonalizeButton = () => {
     const userLevel = user?.profile?.software_background || 'beginner';
 
     try {
-      const response = await fetch('http://localhost:8000/personalize', {
+      const response = await fetch('https://abubakaris-space.hf.space/personalize', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

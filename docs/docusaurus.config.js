@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Bridging the gap between digital intelligence and the physical world',
   url: 'https://abubakarzohaib141.github.io',
-  baseUrl: '/hackathon-piaic/',
+  baseUrl: '/physical-ai-textbook-frontend/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'abubakarzohaib141', // Usually your GitHub org/user name.
-  projectName: 'hackathon-piaic', // Usually your repo name.
+  projectName: 'physical-ai-textbook-frontend', // Usually your repo name.
 
   presets: [
     [

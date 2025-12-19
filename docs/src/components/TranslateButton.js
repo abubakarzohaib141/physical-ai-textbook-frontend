@@ -6,7 +6,7 @@ export default function TranslateButton({ content, onTranslated }) {
   const [isUrdu, setIsUrdu] = useState(false);
   const [originalContent] = useState(content);
 
-  const API_URL = 'http://localhost:8000';
+  const API_URL = 'https://abubakaris-space.hf.space';
 
   const handleToggleTranslation = async () => {
     if (isUrdu) {
