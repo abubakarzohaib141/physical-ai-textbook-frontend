@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[2841],{8705:a=>{a.exports=JSON.parse('{"allTagsPath":"/hackathon-piaic/blog/tags","slug":"/hackathon-piaic/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/hackathon-piaic/blog/tags/docusaurus"}')}}]);
