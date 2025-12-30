@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/abubakarzohaib141/piaic-hackathon-physical/edit/main/docs/',
+          editUrl: 'https://github.com/abubakarzohaib141/physical-ai-textbook-frontend/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/abubakarzohaib141/piaic-hackathon-physical/edit/main/docs/blog/',
+            'https://github.com/abubakarzohaib141/physical-ai-textbook-frontend/edit/main/docs/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -167,7 +167,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/abubakarzohaib141/piaic-hackathon-physical',
+                href: 'https://github.com/abubakarzohaib141/physical-ai-textbook-frontend',
               },
               {
                 label: 'AI-Native Book',
